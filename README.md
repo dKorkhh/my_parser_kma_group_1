@@ -2,7 +2,7 @@
 
 Create a new simple parser for education 
 
-![alt text](image.png)
+<img width="1157" height="184" alt="image" src="https://github.com/user-attachments/assets/ac2c077c-ac94-4249-be67-c9f83bb05c4f" />
 
 ### Example
 
@@ -16,3 +16,4 @@ peg::parser! {
         = "[" l:(number() ** ",") "]" { l }
     }
   }
+
