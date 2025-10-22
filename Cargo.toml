@@ -3,6 +3,7 @@ name = "mushchenko_parser"
 version = "0.1.0"
 edition = "2024"
 license = "MIT"
+description = "A brief description of your crate"
 
 [dependencies]
 peg = "0.8.5"
